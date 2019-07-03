@@ -1,0 +1,22 @@
+body.page{
+    background-image: url(fundo_01.jpg);
+    font-family: 'Raleway', sans-serif;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: #00FFFF;
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    color: #87CEFA
+}
+p{
+    color: white;
+    margin-left: 20px;
+}
+li{
+    color: whitesmoke;
+    padding: 3px;
+}

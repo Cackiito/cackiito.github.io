@@ -1,0 +1,73 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+nav.layout_01{
+    width: 10%;
+    height: 1000px;
+    float: left;
+    background-color: #27408B;
+    color: #27408B;
+}
+div.layout_02{
+    width: 80%;
+    height: 1000px;
+    float: left;
+    background-color: white;
+}
+div.rodapé{
+    width: 100%;
+    height: 80px;
+    background-color: #4682B4;
+    float: left;
+}
+div.Ima{
+    width: 41%;
+    height: 400px;
+    float: left;
+    background-color: black;
+}
+nav.divisoria_01{
+    width: 5%;
+    height: 400px;
+    float: left;
+    color: white;
+    background-color: white;
+}
+nav.divisoria_02{
+    width: 2%;
+    height: 400px;
+    float: left;
+    color: white;
+    background-color: white;
+}
+nav.divisoria_03{
+    width: 6%;
+    height: 400px;
+    float: left;
+    color: white;
+    background-color: white;
+}
+div.Bio{
+    width: 46%;
+    height: 400px;
+    float: left;
+    background-color: #87CEFA;
+}
+h1{
+    text-align: center;
+}
+h3{
+    margin-top: 50px;
+    font-size: 25px;
+    padding: 0px 0px 0px 40px;
+}
+li{
+    margin-left: 20px;
+}
+div.infos{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+}
